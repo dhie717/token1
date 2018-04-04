@@ -18,10 +18,10 @@ kk.loginResult()
 
 ki = LINETCR.LINE()
 ki.login(token="Em8WPZacfeoF9ioyZCHd.UvZQ8iaX1kDhGbAShThZ3q.1EiTKut1Z/eHFNGn899abavIZp5/zxPm6L7+A82m/Q0=")
-ki.loginResult()
+ki.loginResult(8416a36a39f16cb380387a03fbc681d2cd96c015)
 
 kc = LINETCR.LINE()
-kc.login(token="Em1nLzLCVz0cQlC9Pt7b.VHH0q0Dhr8pSns5/+RsmgW.Dnfdg/UrkMwX9f8syDlWvDsktEIBNGA0j9YbZzitloU=")
+kc.login(token="Er1IPfF3whDnBNYcrig1.czaiRBaEfB2rcmjKBzonmq.7Bw1xyovdGu9VeLapbqsWK0OrOXkQ/O45Um22aG0xRM==")
 kc.loginResult()
 
 print "Login success"
